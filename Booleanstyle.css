@@ -1,0 +1,66 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+#Contenitore{
+  font-family:"Open Sans", sans-serif;
+  width: 50%;
+  height: 550px;
+  padding: 6%;
+  margin: auto;
+  margin-top: 2%;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 30px;
+  color: #87e74b;
+
+}
+
+#Logo{
+  width: 190px;
+}
+
+#Linea-Verde{
+  background-color: #87e74b;
+  padding: 7px;
+
+}
+
+
+main h3{
+  display: inline-block;
+  margin: 5px;
+}
+
+#Monopattini{
+  text-align: left;
+  padding: 15px;
+  color: white;
+}
+
+
+
+.Batteria1{
+  background-color: orange;
+  border: 2px solid black;
+  width: 250px;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.Batteria2{
+  background-color: #6ba12e;
+  border: 2px solid black;
+  width: 400px;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.Batteria3{
+  background-color: #c1261b;
+  border: 2px solid black;
+  width: 100px;
+  padding: 8px;
+  border-radius: 5px;
+}
